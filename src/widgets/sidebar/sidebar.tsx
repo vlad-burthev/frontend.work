@@ -1,4 +1,4 @@
-import { useEffect, type FC, useState } from "react";
+import { type FC } from "react";
 import styles from "./sidebar.module.scss";
 import { paths } from "../../router/paths";
 import { NavLink } from "react-router-dom";
